@@ -2,6 +2,7 @@
 ## my name is Luca Pirillo
 ### I'm a sith lord
 ### Hi there 👋
+<img width="1436" alt="giorno" src="https://user-images.githubusercontent.com/93533166/139689519-b7ea5b02-7b90-40c3-9e6f-dee336509553.png">
 
 <!--
 **CSI-Luca-Pirillo/CSI-Luca-Pirillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
