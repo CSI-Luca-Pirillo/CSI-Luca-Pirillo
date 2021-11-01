@@ -1,5 +1,5 @@
 # Welcome my child
-## my name is Luca Pirillo
+### My Name Is Luca Pirillo
 ### I'm a sith lord. I'm a student in a techonology class. I like robots and sports.also my favorite animal is cats. Like birds too.
 * water polo
 * video games
