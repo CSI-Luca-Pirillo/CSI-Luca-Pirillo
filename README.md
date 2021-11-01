@@ -1,7 +1,8 @@
 # Welcome my child
 ## my name is Luca Pirillo
-### I'm a sith lord
-### Hi there 👋
+### I'm a sith lord. I'm a student in a techonology class. I like robots and sports.also my favorite animal is cats. Like birds too.
+* water polo
+* video games
 <img width="1436" alt="giorno" src="https://user-images.githubusercontent.com/93533166/139689519-b7ea5b02-7b90-40c3-9e6f-dee336509553.png">
 
 <!--
