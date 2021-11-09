@@ -14,4 +14,5 @@
  ![among us](https://user-images.githubusercontent.com/93533166/140083809-9923d548-1740-4d47-8c03-50ba2972b32d.jpg)
 
 ## personajes
-#### * en among us hay dos personages El crewmate y el impostor
+* en among us hay dos personages El crewmate y el impostor
+* LA mison del impostor es matar todos los crewmates. y los crewmates tienen que averiguar quien es el impostor Para botarlo del maps. Sino tienen que completar sus areas Para ganar
