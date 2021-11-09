@@ -12,3 +12,6 @@
  ## Mecanica
  ### La mecanica del juego es muy simple. Para mover el jugador usas wasd y usas El mous y space par Para el resto de Las acciones  del juego como extra y salir de una tarea
  ![among us](https://user-images.githubusercontent.com/93533166/140083809-9923d548-1740-4d47-8c03-50ba2972b32d.jpg)
+
+## personajes
+#### * en among us hay dos personages El crewmate y el impostor
