@@ -6,9 +6,9 @@
 ![zoro](https://user-images.githubusercontent.com/93533166/139691245-801ec74c-8e6f-42b9-8f56-18e293528d25.jpg)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a and campaign with my friends
+- 🌱 I’m currently learning stuff
+- 💬 Ask me about swimming
+- - ⚡ Fun fact: my favorite birdis theafrican grey parrot
 
 
