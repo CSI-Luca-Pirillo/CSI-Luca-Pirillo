@@ -1,8 +1,9 @@
 
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Pestily </b></h1>
+<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Ssundee </b></h1>
 
 <div align="center">
-    <img    src="![image](https://user-images.githubusercontent.com/93533166/144621070-ed2dcc2f-02e1-4d03-9215-94699760920a.png)"
+    <img    src="![image](https://user-images.githubusercontent.com/93533166/144621664-ae53b788-0b87-44af-b034-10653e542f8e.png)
+"
 
             title="ssundee"
             width="20%"
