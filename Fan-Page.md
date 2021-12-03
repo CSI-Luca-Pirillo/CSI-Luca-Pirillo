@@ -2,7 +2,7 @@
 <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Pestily </b></h1>
 
 <div align="center">
-    <img    src="![image](https://user-images.githubusercontent.com/93533166/144621070-ed2dcc2f-02e1-4d03-9215-94699760920a.png)
+    <img    src="![image](https://user-images.githubusercontent.com/93533166/144621070-ed2dcc2f-02e1-4d03-9215-94699760920a.png)"
 
             title="ssundee"
             width="20%"
