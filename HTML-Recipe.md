@@ -22,4 +22,15 @@
          </ul>
         
 <h2>Steps</h3>        
-         
+
+<ol>
+ 1.flour
+ 2.baking soda
+ 3.salt
+ 4.butter
+ 5.granulated sugar
+ 6.brown sugar
+ 7.chocolate chips
+ 8.nuts
+ 9.bake
+         </ol>
