@@ -8,3 +8,16 @@
 
 
 <h3> Ingredients: </h3>
+<ul>
+         flour
+         baking soda
+         salt
+         butter
+         granulated sugar
+         brown sugar
+        egg
+         vanilla
+         chocolate chips
+         nuts (optional)
+         </ul>
+         
