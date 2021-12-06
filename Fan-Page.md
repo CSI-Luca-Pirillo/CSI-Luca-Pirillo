@@ -2,21 +2,19 @@
 <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Ssundee </b></h1>
 
 <div align="center">
-    <img    src="![image](https://user-images.githubusercontent.com/93533166/144621664-ae53b788-0b87-44af-b034-10653e542f8e.png)
-"
-
+    <img    src="https://pbs.twimg.com/profile_images/1123751479259668482/pNo9fHDQ_400x400.jpg"              
             title="ssundee"
             width="20%"
             height="20%" 
             />
 </div>
 
-<h2 align="center" > Acting, streaming, sports or other personality Fan Page!</h2>
+<h2 align="center" >Sounded fan page!</h2>
 
 <br>
 
 <p>
-    Pestily is a popular streamer that plays my favorite game, Escape From tarkov. At the time that i wrote this page he has over half a million subscribers on youtube and over a million on twitch. He has stood out through informative content, MLG skills and charitable livestream events. His content aims to be for viewers of all ages, even though EFT is a realistic FPS.
+    
 </p>
 
 <br>
