@@ -25,13 +25,13 @@
 <h2>Steps</h3>        
 
 <ol>
-         <li> 1.flour</li>
-         <li>2.baking soda</li>
-         <li> 3.salt</li>
-         <li> 4.butter</li>
-         <li>5.granulated sugar</li>
-         <li> 6.brown sugar</li>
-         <li> 7.chocolate chips</li>
-         <li> 8.nuts</li>
-         <li> 9.bake</li>
+         <li> flour</li>
+         <li>baking soda</li>
+         <li> salt</li>
+         <li> butter</li>
+         <li>granulated sugar</li>
+         <li> brown sugar</li>
+         <li> chocolate chips</li>
+         <li> nuts</li>
+         <li> bake</li>
          </ol>/
