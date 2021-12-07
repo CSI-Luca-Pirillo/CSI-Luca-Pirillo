@@ -20,12 +20,15 @@
 <br>
 
 <div align="center">
-    <img    src="https://www.dexerto.com/wp-content/uploads/2020/03/pestily-talks-fast-levelling-escape-from-tarkov-flea-market.png"
-            title="Pestily"
+    <img    src="https://pbs.twimg.com/profile_images/1123751479259668482/pNo9fHDQ_400x400.jpg"           
+         title="Pestily"
             width="50%"
             height="50%" 
             />
 </div>
+Ssundee is a YouTuber with over 14 million subscribers. He focuses on making Minecraft videos with his friends. He mainly makes videos with mrcrainer another youtuber whom he has been making videos with for a few years now. He has two sons and a wife named madalin.
+
+He currently has 3 play buttons. in 2019 trainer stopped filming with sunder due to a huge time difference. Ssunde has made approximately 12.7 million dollars this year. his favorite lines are foot and cheese curd.
 
 <br>
 
@@ -33,7 +36,7 @@
 <table>
     <tr>
         <th>Name</th>
-        <td>Paul</td>
+        <td>Ian</td>
     </tr>
     <tr>
         <th>Age</th>
@@ -41,27 +44,27 @@
     </tr>
     <tr>
         <th>Birthday</th>
-        <td>7th November</td>
+        <td>December 2nd</td>
     </tr>
         <tr>
         <th>Nationality</th>
-        <td>Australian</td>
+        <td>American/td>
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@thisispestily</td>
+        <td>@ssundeeyt</td>
     </tr>
     <tr>
         <th>Twitter</th>
-        <td>@pestily</td>
+        <td>@SSundee</td>
     </tr>
     <tr>
         <th>Youtube</th>
-        <td>@pestily</td>
+        <td>SSundee</td>
     </tr>
     <tr>
         <th>Twitch</th>
-        <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
+        <td><a href="https://www.twitch.tv/ssundeegames"> @ssundeegames </a></td>
     </tr>
 </table>
 
@@ -69,5 +72,5 @@
 <br><br>
 
 <p>
-    Made by: <u>Carlos Jose Cobian</u> on December 2, 2021
+    Made by: <u>Luca Antonio Pirillo Ruix </u> on December 7, 2021
 </p>
