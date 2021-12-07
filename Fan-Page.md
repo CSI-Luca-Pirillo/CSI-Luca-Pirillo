@@ -28,6 +28,7 @@
 </div>
 Ssundee is a YouTuber with over 14 million subscribers. He focuses on making Minecraft videos with his friends. He mainly makes videos with mrcrainer another youtuber whom he has been making videos with for a few years now. He has two sons and a wife named madalin.
 
+
 He currently has 3 play buttons. in 2019 trainer stopped filming with sunder due to a huge time difference. Ssunde has made approximately 12.7 million dollars this year. his favorite lines are foot and cheese curd.
 
 <br>
