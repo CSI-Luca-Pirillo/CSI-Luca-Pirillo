@@ -9,28 +9,29 @@
 
 <h3> Ingredients: </h3>
 
-<ul> flour
-         baking soda
-         salt
-         butter
-         granulated sugar
-         brown sugar
-        egg
-         vanilla
-         chocolate chips
-         nuts (optional)
+<ul> 
+         <li>flour</li>
+         <li>baking soda</li>
+         <li>salt</li>
+         <li>butter</li>
+        <li>granulated sugar</li>
+         <li>brown sugar</li>
+        <li>egg</li>
+         <li>vanilla</li>
+         <li>chocolate chips</li>
+         <li>nuts (optional)</li>
          </ul>
         
 <h2>Steps</h3>        
 
 <ol>
- 1.flour
- 2.baking soda
- 3.salt
- 4.butter
- 5.granulated sugar
- 6.brown sugar
- 7.chocolate chips
- 8.nuts
- 9.bake
-         </ol>
+         <li> 1.flour</li>
+         <li>2.baking soda</li>
+         <li> 3.salt</li>
+         <li> 4.butter</li>
+         <li>5.granulated sugar</li>
+         <li> 6.brown sugar</li>
+         <li> 7.chocolate chips</li>
+         <li> 8.nuts</li>
+         <li> 9.bake</li>
+         </ol>/
